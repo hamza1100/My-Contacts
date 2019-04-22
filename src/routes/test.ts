@@ -11,6 +11,6 @@ router.get('/', ctrl.testApi);
 //testing user
 // router.get('/', ctrl.getUser);
 
-router.post('/create', ctrl.addUser);
+// router.post('/create', ctrl.addUser);
 
 export default router.routes();
